@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Alamo et al., "Effects of myosin variants on interacting-heads motif explain distinct hypertrophic and dilated cardiomyopathy phenotypes". eLife, 2017. http://dx.doi.org/10.7554/eLife.24634
+
+
+
+
 # Effect of Myosin Variants on Interacting-Heads Motif Explain Distinct Hypertrophic and Dilated Cardiomyopathy Phenotypes
 ### _Lorenzo Alamo\*, James S. Ware\*, Antonio Pinto, Richard E. Gillilan, Jonathan G. Seidman, Christine E. Seidman\* and Raúl Padrón\*_
 
